@@ -23,7 +23,7 @@ class Solution {
     public static void main(String args[]) {
 
         // change the numbers in the array as a test!
-        int[] A = new int[] { 3, 2, 1, 4, 5, 7};
+        int[] A = new int[] {7,5,8,6,2,3,1,4};
 
         Arrays.sort(A);
         int min = 1;
